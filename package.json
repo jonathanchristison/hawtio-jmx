@@ -1,6 +1,6 @@
 {
   "name": "@hawtio/jmx",
-  "version": "3.0.66",
+  "version": "3.0.66-redhat",
   "main": "dist/hawtio-jmx.js",
   "types": "dist/hawtio-jmx.d.ts",
   "files": [
@@ -54,7 +54,8 @@
     "bootstrap-select": "1.12.3",
     "@types/jquery": "2.0.48",
     "datatables.net": "1.10.15",
-    "moment": "2.18.1"
+    "moment": "2.18.1",
+    "angular-patternfly": "4.3.8-redhat"
   },
   "license": "Apache-2.0",
   "repository": {
